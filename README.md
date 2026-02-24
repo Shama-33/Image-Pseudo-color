@@ -331,10 +331,10 @@ context-based-pseudo-coloring/
 ├── Local_hist.py              # Local histogram matching (same region of 2 images)
 ├── roi_diff.py                # Local ROI matching (different regions of 2 images)
 ├── Report.pdf                 # Detailed project report
-├── presentation.pptx          # Project methodology, output samples and video demo
+├── Presentation.pptx          # Project Presentation
 ├── .gitignore                 # Git ignore rules
-├── output_Sample              # Sample output
-├── Test Image (Sample)        # Sample Test Images
+├── output_Sample.zip          # Sample output
+├── Test Image (Sample).zip    # Sample Test Images
 └── README.md                  # This file
 ```
 
