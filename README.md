@@ -335,6 +335,8 @@ context-based-pseudo-coloring/
 ├── .gitignore                 # Git ignore rules
 ├── output_Sample.zip          # Sample output
 ├── Test Image (Sample).zip    # Sample Test Images
+├── Demo.mp4                   # Output (Except Haralick)
+├── Demo_HaralickOnly.mp4          # Output for Haralick Features (Time Consuming)
 └── README.md                  # This file
 ```
 
